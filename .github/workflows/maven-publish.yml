@@ -1,4 +1,4 @@
-name: java web-application deployment 1
+name: java web-application deployment 2
 
 on: [push]
 
